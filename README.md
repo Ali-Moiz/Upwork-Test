@@ -11,7 +11,7 @@ Registration is intentionally **not** automated — it requires manually enterin
 
 ## Session recording
 
-📹 **[Session recording (Google Drive)](DRIVE_LINK_PLACEHOLDER)** — screen recording of building and running these tests.
+📹 **[Session recording (Google Drive)]([DRIVE_LINK_PLACEHOLDER](https://drive.google.com/file/d/1lIXoJAsvR2DhwTV48v9dJEKE7CZgNUMB/view?usp=sharing))** — screen recording of building and running these tests.
 
 ## Stack
 
