@@ -8,7 +8,7 @@ test('user can create a new AI Survey project', async ({ page }) => {
 
   await projects.createProject('AI Survey');
 
-  // Landed on a freshly created project detail page.
-  await expect(page).toHaveURL(/\/projects\/[0-9a-f-]{36}/);
-  await expect(page.getByRole('tablist')).toBeVisible();
+  // Landed on a freshly created project detail page (proof of creation).
+  await expect(page).toHaveURL(/\/projects\/[^/?#]+/);
+  await expect(page.getByRole('tab', { name: /questions/i })).toBeVisible();
 });

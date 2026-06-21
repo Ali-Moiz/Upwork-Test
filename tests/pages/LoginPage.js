@@ -16,16 +16,19 @@ class LoginPage {
 
   async login(email, password) {
     await this.goto();
+
+    // Step 1 — email. Submit via Enter (more robust than clicking the AuthKit
+    // button, which is occasionally not actionable in time).
     await this.emailInput.waitFor({ state: 'visible', timeout: 45_000 });
     await this.emailInput.fill(email);
-    await this.submit.click();
+    await this.emailInput.press('Enter');
 
-    await this.passwordInput.waitFor({ state: 'visible', timeout: 20_000 });
+    // Step 2 — password.
+    await this.passwordInput.waitFor({ state: 'visible', timeout: 30_000 });
     await this.passwordInput.fill(password);
-    await this.submit.click();
+    await this.passwordInput.press('Enter');
 
-    await this.page.waitForURL(/evo\.dev\.theysaid\.io\/(projects|home)/, { timeout: 40_000 });
-    await this.page.waitForLoadState('networkidle').catch(() => {});
+    await this.page.waitForURL(/evo\.dev\.theysaid\.io\/(projects|home)/, { timeout: 45_000 });
   }
 }
 

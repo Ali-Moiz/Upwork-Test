@@ -12,6 +12,8 @@ module.exports = defineConfig({
   timeout: 60_000,
   expect: { timeout: 15_000 },
   use: {
+    // Headed locally (good for the screen recording); headless in CI.
+    headless: !!process.env.CI,
     baseURL: process.env.APP_URL || 'https://evo.dev.theysaid.io/',
     trace: 'on-first-retry',
     video: 'retain-on-failure',
