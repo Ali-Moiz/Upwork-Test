@@ -29,12 +29,15 @@ class ProjectDetailPage {
    * @returns {Promise<string|null>}
    */
   async getShareUrl() {
-    const linkInput = this.page.locator('input[value*="theysaid.io"], input[value^="http"]').first();
-    if (await linkInput.count()) {
-      const v = await linkInput.inputValue().catch(() => null);
-      if (v) return v;
+    // The publish panel renders the public survey URL as text next to "Copy link".
+    const linkText = this.page.getByText(/\/survey\//).first();
+    await linkText.waitFor({ state: 'visible', timeout: 10_000 }).catch(() => {});
+    if (await linkText.count()) {
+      const txt = await linkText.innerText().catch(() => '');
+      const m = txt.match(/https?:\/\/[^\s"']+\/survey\/[^\s"']+/);
+      if (m) return m[0];
     }
-    const link = this.page.locator('a[href*="theysaid.io"]').first();
+    const link = this.page.locator('a[href*="/survey/"]').first();
     if (await link.count()) return link.getAttribute('href');
     return null;
   }
