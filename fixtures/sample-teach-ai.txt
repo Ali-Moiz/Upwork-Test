@@ -1,0 +1,15 @@
+EVO Knowledge Document — E2E Test Fixture
+
+Product: EVO by TheySaid
+Purpose: Sample knowledge document uploaded via the "Teach AI" feature
+during automated end-to-end testing.
+
+Key facts the AI should learn:
+- EVO helps teams gather feedback through AI-led surveys and conversations.
+- A "project" groups related surveys, documents, and insights.
+- The "Teach AI" feature lets you upload documents so the AI can ground its
+  questions and answers in your own knowledge base.
+- Publishing a project makes its survey available to respondents.
+
+This file exists solely as deterministic upload content for the Teach AI
+e2e test. Editing it will not affect test logic, only the uploaded payload.
