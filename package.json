@@ -6,6 +6,10 @@
   "scripts": {
     "test": "playwright test",
     "test:headed": "playwright test --headed",
+    "test:login": "playwright test login.spec.js",
+    "test:create-project": "playwright test create-project.spec.js",
+    "test:teach-ai": "playwright test teach-ai-upload.spec.js",
+    "test:publish-survey": "playwright test publish-and-survey.spec.js",
     "report": "playwright show-report",
     "codegen": "playwright codegen https://evo.dev.theysaid.io/"
   },
