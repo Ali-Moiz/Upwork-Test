@@ -1,0 +1,55 @@
+{
+  "url": "https://mystical-turtle-68-staging.authkit.app/?client_id=client_01J0Y1E70HJDR6E8M8NBENXPJX&redirect_uri=https%3A%2F%2Fevo.dev.theysaid.io&state=%7B%22returnTo%22%3A%22%2Flogin%22%7D&authorization_session_id=01KVNRCSV23FAFB4JG17K1R9A8",
+  "title": "",
+  "items": [
+    {
+      "t": "input",
+      "type": "email",
+      "role": "",
+      "id": "radix-:R1b5pjsvamfjsq:",
+      "label": "Your email address"
+    },
+    {
+      "t": "button",
+      "type": "submit",
+      "role": "",
+      "id": "",
+      "label": "Continue"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "role": "",
+      "id": "",
+      "label": "Continue with Google"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "role": "",
+      "id": "",
+      "label": "Continue with LinkedIn"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "role": "",
+      "id": "",
+      "label": "Sign up"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "role": "",
+      "id": "",
+      "label": "Terms of Service"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "role": "",
+      "id": "",
+      "label": "Privacy Policy"
+    }
+  ]
+}

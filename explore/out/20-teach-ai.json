@@ -1,0 +1,115 @@
+{
+  "url": "https://evo.dev.theysaid.io/home/teach-ai",
+  "items": [
+    {
+      "t": "button",
+      "type": "",
+      "label": "Collapse sidebar"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "AI Projects"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Teach AI"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Templates"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Help Docs"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Settings"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "User menu"
+    },
+    {
+      "t": "input",
+      "type": "text",
+      "label": "Not specified"
+    },
+    {
+      "t": "input",
+      "type": "text",
+      "label": "Not specified"
+    },
+    {
+      "t": "input",
+      "type": "text",
+      "label": "Not specified"
+    },
+    {
+      "t": "input",
+      "type": "text",
+      "label": "Not specified"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Additional information actions"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Actions"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Add link"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Add file"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Close chat sidebar"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: Highest response rate patterns"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: Data comparisons"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: New project ideas"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: Most actionable insights per project"
+    },
+    {
+      "t": "button",
+      "type": "submit",
+      "label": "Send message"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Open chat sidebar"
+    }
+  ]
+}

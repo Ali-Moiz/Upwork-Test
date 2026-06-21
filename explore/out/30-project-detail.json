@@ -1,0 +1,260 @@
+{
+  "url": "https://evo.dev.theysaid.io/projects/203564be-f529-4cf2-80f2-e798a0a8965f?tab=analytics",
+  "items": [
+    {
+      "t": "a",
+      "type": "",
+      "label": "AI Projects"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Teach AI"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Templates"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Help Docs"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Settings"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "User menu"
+    },
+    {
+      "t": "a",
+      "type": "",
+      "label": "Back to projects"
+    },
+    {
+      "t": "input",
+      "type": "",
+      "label": "Project title"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Share analytics"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Insight downloads"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Project options"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Preview project"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Publish"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Questions"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Settings"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Analytics"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "All Responses"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Clips and Reels"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Create executive summary"
+    },
+    {
+      "t": "input",
+      "type": "",
+      "label": "Search questions"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Any % complete"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Select date range"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "All channels"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Themes\nn/a"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Responders\n1"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Avg. Time\n00:13"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Expand question"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Score\n1\n2\n3\n4\n5"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Themes\nn/a"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Responders\n1"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Expand question"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Score\nNo data"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Themes\nn/a"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Responders\n0"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Expand question"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Score\nNo data"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Themes\nn/a"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Responders\n0"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Expand question"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Score\nNo data"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Themes\nn/a"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Responders\n0"
+    },
+    {
+      "t": "button",
+      "type": "button",
+      "label": "Expand question"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Close chat sidebar"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: Executive summary"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: What's surprising"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: Where do users drop off"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: What decisions can I make"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Use suggestion: What are high impact recommendations"
+    },
+    {
+      "t": "button",
+      "type": "submit",
+      "label": "Send message"
+    },
+    {
+      "t": "button",
+      "type": "",
+      "label": "Open chat sidebar"
+    }
+  ]
+}
